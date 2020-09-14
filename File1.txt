@@ -2,3 +2,5 @@ This is change 1 //changing one to 1 and adding space
 
 this is change 2
 making changes from master
+making changes from idea branch
+//resolving merge conflict
